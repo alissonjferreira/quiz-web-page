@@ -27,14 +27,14 @@ const perguntas = [
       correta: 0
     },
     {
-      pergunta: "Quem é o amigo de Will que desaparece no início da série?",
-      respostas: [
-        "Mike Wheeler",
-        "Lucas Sinclair",
-        "Dustin Henderson"
-      ],
-      correta: 0
-    },
+        pergunta: "Qual é o nome do cientista que trabalhou no laboratório em Hawkins?",
+        respostas: [
+          "Dr. Brenner",
+          "Dr. Cooper",
+          "Dr. Smith"
+        ],
+        correta: 0
+      },
     {
       pergunta: "Qual atriz interpreta Eleven em 'Stranger Things'?",
       respostas: [
@@ -63,14 +63,14 @@ const perguntas = [
       correta: 0
     },
     {
-      pergunta: "Qual é o nome do grupo de amigos protagonistas?",
-      respostas: [
-        "Grupo de Hawkins",
-        "Os Inseparáveis",
-        "Os Garotos"
-      ],
-      correta: 2
-    },
+        pergunta: "Qual é o nome do cachorro de Dustin?",
+        respostas: [
+          "Mews",
+          "Dart",
+          "Max"
+        ],
+        correta: 1
+      },
     {
       pergunta: "Que bebida é a favorita de Eleven?",
       respostas: [
