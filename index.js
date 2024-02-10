@@ -63,7 +63,7 @@ const perguntas = [
       correta: 0
     },
     {
-        pergunta: "Qual é o nome do cachorro de Dustin?",
+        pergunta: "Qual é o nome do estranho ser de estimação de Dustin?",
         respostas: [
           "Mews",
           "Dart",
