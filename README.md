@@ -1,2 +1,2 @@
 # quiz-web-page
-Quiz que pode ser adaptado a diversos temas
+Quiz desenvolvido durante o evento NLW Experts, que pode ser adaptado a diversos temas
